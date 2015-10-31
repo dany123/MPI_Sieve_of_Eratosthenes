@@ -3,7 +3,7 @@
 <br />
 
 Based on the initial version of the problem presented in the book 
-"Parallel programming in C with MPI and openMP", by Quinn.
+"Parallel programming in C with MPI and OpenMP", by Quinn.
 <br />
 
 ##### Compile 
