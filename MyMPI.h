@@ -16,4 +16,4 @@
         (((p) * ((index) + 1) - 1) / (n))
 
 #define BLOCK_VALUE_TO_INDEX(val, id, p, n) \
-        (val - BLOCK_FIRST) / BLOCK_STEP - BLOCK_LOW(id, p, n - 1)
+        ((val - BLOCK_FIRST) / BLOCK_STEP) - BLOCK_LOW(id, p, n - 1)
